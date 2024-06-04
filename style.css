@@ -11,7 +11,7 @@
 
                         /* Responsive  */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 720px) {
     .fullbody2img1,.fullbody2img2,.fullbody2img3, .fullbody2img4, .fullbody2img5, .service-2para, .fullbody3img2, .fullbody3img1, .content3-2img, .fullbody4img1, .fullbody5img1, .fullbody5img2, .fullbody5img3, .prev, .next, .fullbody6img1, .content5-right2, .fullbody7img1, .fullbody7img2, .fullbody8img1, .fullbody8img2, .fullbody8img3, .image-prev, .image-next, .fullbody9img1, .fullbody9img2, .fullbody9img3, .fullbody9img4, .fullbody9img5, .fullbody9img6, .fullbody9img7, .fullbody9img8, .fullbody9img9, .fullbody9img10, .fullbody9img11, .fullbody9img12, .content9-4, .fullbody10img1, .fullbody10img2, .fullbody10img3, .nav-content h1, .nav-content h4{
         display: none;
     }
